@@ -18,7 +18,7 @@ use App\Http\Controllers\TestController;
 //     return view('welcome');
 // });
 
- Route::get('/','TestController@affichage');
+ Route::get('/','TestController@index');
 
 // Route::any('{slug}', function () {
 //     return view('welcome');

@@ -9,6 +9,11 @@
        
     </head>
     <body>
-      
+        <div id="app">
+        <initial />
+
+        </div>
+        <script src="{{ asset('js/app.js') }}"></script>
+
     </body>
 </html>
